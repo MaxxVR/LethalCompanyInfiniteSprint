@@ -1,0 +1,9 @@
+{
+  "name": "InfiniteSprint",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/MaxxVR/LethalCompanyInfiniteSprint",
+  "description": "Infinite sprint for lethal company.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
